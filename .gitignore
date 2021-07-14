@@ -1,0 +1,10 @@
+.DS_Store
+**/.DS_Store
+*.ipynb
+**/*.ipynb
+Output/
+Preprocessing/data_raw
+Preprocessing/data_processed
+Tutorial/
+__pycache__/
+Preprocessing/*.csv
